@@ -1,1 +1,7 @@
+title: loneranger.github.io
+description: my website
+theme: minima
 
+# 可选：显示顶部导航
+header_pages:
+  - about.md
